@@ -38,3 +38,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinkeridea&show_icons=true&locale=en" alt="tinkeridea" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinkeridea&" alt="tinkeridea" /></p>
+
+
+## Snake Eating my contribution graph
+![snake gif](https://github.com/tinkeridea/tinkeridea/blob/output/github-contribution-grid-snake.gif)
